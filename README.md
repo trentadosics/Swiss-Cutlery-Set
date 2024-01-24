@@ -1,7 +1,7 @@
 *to be updated*
 
 # Swiss Cutlery Set
-*Workshop project at CIM-UPC (Barcelona) - November 2023*
+Workshop project at CIM-UPC (Barcelona) - November 2023
 
 In collaboration with: Marina Domènech, Josep Plandiura i Zeus Romanillos
 
